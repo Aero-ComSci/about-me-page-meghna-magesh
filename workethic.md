@@ -1,1 +1,1 @@
-My work ethic: persistant, reliable cooperative.
+My work ethic: persistant, spontaneous, cooperative.
