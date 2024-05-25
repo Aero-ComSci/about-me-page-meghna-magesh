@@ -1,0 +1,28 @@
+﻿Project 1 Content:
+  
+  
+
+Project: Lunch Rescue
+Couse; Computer Science Essentials
+Duration: 1-1.5 months
+Objective: provide a good solution for reducing food waste in schools around the world
+
+
+This project was made for the Entrepreneurship Project 2024 for 
+CSE. The problem we wanted to solve was how to reduce food waste in schools. Some of our team members created a box of CAD software for students to put their school-bought lunch into, instead of throwing it away. My friend and I developed an app from scratch to help students who seek volunteer opportunities enter in their information, and choose whether they want to take a few lunches home, or if they want to volunteer to take the lunches to a homeless shelter. We created a presentation to present this to our class, and a video for the judges to watch. Our project earned a lot of positive feedback from other peers and our teachers, which has inspired us to keep moving forward with the project.
+
+
+Project 2 Content:
+  
+
+
+
+
+
+Project: Menu & Ordering Food
+Course: Computer Science Essentials
+Duration: 2 months
+Objective: To create a working and accessible menu for users who can order sandwiches, drinks, and fries, and can alter their order whenever they want.
+
+
+This project was an extremely tedious process for me to do, because it was one of  my first projects done with Python. This application is the second version of an app I had made a couple of weeks prior to starting this one. This app asks you if you want more than of each item (sandwiches, drinks, fries, ketchup packets) and puts your order into a list. I uploaded the code, READme, and my formation on a Github repository. I worked with some other people who had more experience in Python to help me iterate through loops and keep track of all my conditionals.
